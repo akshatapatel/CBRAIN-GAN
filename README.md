@@ -9,4 +9,4 @@ Environment variables such as
 - Sensible Heat Flux (SHFLX)
 - Latent Heat FLux (LHFLX)
 
-are used to generate a distribution Precipitation (PRECT) and learn its relation with the above variables.
+are used to generate a distribution of Precipitation (PRECT) and learn its relation with the above variables.
